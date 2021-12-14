@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_main.xml" value="0.1425925925925926" />
-        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_play_video.xml" value="0.1" />
-        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_record.xml" value="0.1" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/drawable/ic_launcher_background.xml" value="0.390625" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/drawable/mediacontroller_fullscreen_selector.xml" value="0.2265625" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_camera.xml" value="0.11" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_play_video.xml" value="0.25" />
+        <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/layout/activity_record.xml" value="0.165" />
         <entry key="..\:/Users/16896/AndroidStudioProjects/Example/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.390625" />
       </map>
     </option>

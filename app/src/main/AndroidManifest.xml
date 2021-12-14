@@ -6,12 +6,22 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:allowBackup="true"
         android:icon="@mipmap/my_ic_launcher"
         android:label="计算机导论"
         android:roundIcon="@mipmap/my_ic_launcher_round"
         android:supportsRtl="true"
+        android:screenOrientation="fullSensor"
         android:theme="@style/Theme.Example">
+        <activity
+            android:name=".GalleryActivity"
+            android:exported="false"
+            android:label="相册"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CameraActivity"
+            android:exported="false"
+            android:label="相机"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".RecordActivity"
             android:exported="false"
